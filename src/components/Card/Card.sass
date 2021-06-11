@@ -1,0 +1,93 @@
+.card 
+    width: 379px
+    height: 381px
+    margin: 0 .5vw 38px
+    background: #F8F8F8
+    border: 1px solid #D8D8D8
+    box-sizing: border-box
+    text-align: left
+
+    @media screen and (max-width: 480px) 
+        width: 100vw
+        margin: 0 0 38px 0
+    
+    .card__image
+        height: 60%
+        display: flex
+        flex-direction: row-reverse
+
+        @media screen and (max-width: 480px) 
+            background-size: cover
+
+        .image__label 
+            width: 134px
+            height: 30px
+            color: #fff
+            font-size: 12px
+            line-height: 16px
+            display: flex
+            flex-direction: column
+            justify-content: center
+            align-items: center
+            align-self: flex-end
+
+        .green 
+            background: #006F79
+        
+        .orange
+            background: #EC6608
+
+
+
+        
+    .card__description
+        padding: 15px 20px
+        font-family: Open Sans
+        color: #363636
+        display: flex
+        flex-direction: column
+        justify-content: space-between
+        min-height: calc(40% - 30px)
+
+        .card__title 
+            font-weight: bold
+            font-size: 20px
+            line-height: 27px
+
+            @media screen and (max-width: 480px) 
+                font-size: 16px
+                line-height: 20px
+
+        .card__address
+            font-size: 16px
+            line-height: 22px
+            margin-bottom: 15px
+
+            @media screen and (max-width: 480px) 
+                font-size: 14px
+                line-height: 18px
+            
+        .card__price 
+            display: flex
+            flex-direction: row
+            align-items: baseline
+
+            .price__title 
+                font-weight: normal
+                font-size: 16px
+                line-height: 22px
+
+                @media screen and (max-width: 480px) 
+                    font-size: 12px
+                    line-height: 20px
+
+            .price__number
+                font-weight: bold
+                margin-left: .2em
+
+                &::before 
+                    content: "£"
+
+        .card__shared 
+            font-size: 14px
+            line-height: 19px
