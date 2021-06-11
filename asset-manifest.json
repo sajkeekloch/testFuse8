@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d9d2781.chunk.css",
-    "main.js": "/static/js/main.df9ce088.chunk.js",
-    "main.js.map": "/static/js/main.df9ce088.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4400590a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4400590a.js.map",
-    "static/js/2.45d1e13f.chunk.js": "/static/js/2.45d1e13f.chunk.js",
-    "static/js/2.45d1e13f.chunk.js.map": "/static/js/2.45d1e13f.chunk.js.map",
-    "static/js/3.ac9090e4.chunk.js": "/static/js/3.ac9090e4.chunk.js",
-    "static/js/3.ac9090e4.chunk.js.map": "/static/js/3.ac9090e4.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.7d9d2781.chunk.css.map": "/static/css/main.7d9d2781.chunk.css.map",
-    "static/js/2.45d1e13f.chunk.js.LICENSE.txt": "/static/js/2.45d1e13f.chunk.js.LICENSE.txt",
-    "static/media/Bitmap.b9eda2e9.png": "/static/media/Bitmap.b9eda2e9.png",
-    "static/media/Chevron.97a27ab1.svg": "/static/media/Chevron.97a27ab1.svg",
-    "static/media/font.sass": "/static/media/OpenSans-Regular.1b0809d5.ttf"
+    "main.css": "/testFuse8/static/css/main.bd500005.chunk.css",
+    "main.js": "/testFuse8/static/js/main.df9ce088.chunk.js",
+    "main.js.map": "/testFuse8/static/js/main.df9ce088.chunk.js.map",
+    "runtime-main.js": "/testFuse8/static/js/runtime-main.3d4da14a.js",
+    "runtime-main.js.map": "/testFuse8/static/js/runtime-main.3d4da14a.js.map",
+    "static/js/2.45d1e13f.chunk.js": "/testFuse8/static/js/2.45d1e13f.chunk.js",
+    "static/js/2.45d1e13f.chunk.js.map": "/testFuse8/static/js/2.45d1e13f.chunk.js.map",
+    "static/js/3.ac9090e4.chunk.js": "/testFuse8/static/js/3.ac9090e4.chunk.js",
+    "static/js/3.ac9090e4.chunk.js.map": "/testFuse8/static/js/3.ac9090e4.chunk.js.map",
+    "index.html": "/testFuse8/index.html",
+    "static/css/main.bd500005.chunk.css.map": "/testFuse8/static/css/main.bd500005.chunk.css.map",
+    "static/js/2.45d1e13f.chunk.js.LICENSE.txt": "/testFuse8/static/js/2.45d1e13f.chunk.js.LICENSE.txt",
+    "static/media/Bitmap.b9eda2e9.png": "/testFuse8/static/media/Bitmap.b9eda2e9.png",
+    "static/media/Chevron.97a27ab1.svg": "/testFuse8/static/media/Chevron.97a27ab1.svg",
+    "static/media/font.sass": "/testFuse8/static/media/OpenSans-Regular.1b0809d5.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.4400590a.js",
+    "static/js/runtime-main.3d4da14a.js",
     "static/js/2.45d1e13f.chunk.js",
-    "static/css/main.7d9d2781.chunk.css",
+    "static/css/main.bd500005.chunk.css",
     "static/js/main.df9ce088.chunk.js"
   ]
 }
